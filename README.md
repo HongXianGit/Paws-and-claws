@@ -15,25 +15,25 @@ A e-commerce website that provides various pet food and supplies. It was created
 
 # Screenshots
 ## Sign Up Page
-<image src="screenshots/Menu.png" width = "300">
+<image src="screenshots/signup.png" width = "1000">
 
 ## Login Page
-<image src="screenshots/Game.png" width = "300">
+<image src="screenshots/login.png" width = "1000">
 
 ## Main Page
-<image src="screenshots/Game_over.png" width = "300">
+<image src="screenshots/mainpage.png" width = "1000">
 
 ## Products Page
-<image src="screenshots/Instructions.png" width = "300">
+<image src="screenshots/products.png" width = "1000">
   
 ## Add to Cart Overlay
-<image src="screenshots/Leaderboard.png" width = "300">
+<image src="screenshots/addtocart.png" width = "500">
 
 ## Cart Page
-<image src="screenshots/Leaderboard.png" width = "300">
+<image src="screenshots/cart.png" width = "1000">
   
 ## News Page
-<image src="screenshots/Leaderboard.png" width = "300">
+<image src="screenshots/news.png" width = "1000">
 
 # License
 The MIT License (MIT)
