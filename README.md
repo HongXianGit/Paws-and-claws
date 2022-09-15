@@ -1,4 +1,4 @@
-# Paws-and-claws-
+# Paws-and-claws
 A e-commerce website that provides various pet food and supplies. It was created for the project of WEB1201 Web Fundamentals during my first year.
 
 # Objectives of this website
